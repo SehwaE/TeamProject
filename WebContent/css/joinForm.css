@@ -1,0 +1,164 @@
+@CHARSET "UTF-8";
+
+.fr {
+	width : 100%;
+}
+.box.int_cl {
+	float: none;
+	visibility: hidden;
+}
+
+.box.int_pass {
+	padding-right: 40px;
+}
+
+.box.int_ot {
+	padding-right: 40px;
+}
+
+.container {
+	margin: 3% auto 13% auto;
+	width: 570px;
+}
+
+.join_title {
+	padding-bottom: 5px;
+}
+
+.optional {
+	margin-right: 55%;
+}
+
+.incd {
+	margin-bottom: 22px;
+}
+
+.id_check {
+	padding-right: 14px;
+	text-align: center;
+	margin-top: -46px;
+}
+
+.ck_Btn {
+	padding: 11px;
+	background-color: #1442a1;
+	color: #fff;
+	border-radius: 9px;
+	text-align: center;
+}
+
+.pass {
+	width: 80%;
+}
+
+.pass2 {
+	width: 80%;
+}
+
+.box.int_ck {
+	padding-right: 19px;
+	text-align: center;
+	border: 0;
+	margin-top: -44px;
+}
+.box. em_ck {
+	padding-right: 19px;
+	text-align: center;
+	border: 0;
+	margin-top: -44px;
+}
+
+.int {
+	display: inline-block;
+	height: 45px;
+	background: #fff;
+	font-size: 15px;
+	width: 520px;
+}
+
+.int_id {
+	width: 430px;
+	height: 45px;
+	background: #fff;
+	font-size: 15px;
+	margin-right: 0;
+}
+
+.add_box {
+	display: block;
+	height: 45px;
+	background: #fff;
+	font-size: 15px;
+}
+
+.addr_box>#postcode {
+	height: 45px;
+	width: 400px;
+}
+
+.add1 {
+	width: 30%;
+}
+
+.addr_ck {
+	padding-right: 19px;
+	width: 76em;
+	text-align: center;
+	border: 0;
+	margin-top: -44px
+}
+
+.filebox {
+	border: 1px dotted #e1e1e1;
+	padding: 6px 25px;
+	background-color: white;
+	border-radius: 4px;
+	color: black;
+	cursor: pointer;
+}
+
+.filebor {
+	border: 1px solid #ccc;
+	width: 430px;
+	height: 45px;
+	display: inline-block;
+}
+
+.up_Btn {
+	padding: 11px;
+	background-color: #1442a1;
+	color: #fff;
+	border-radius: 9px;
+	text-align: center;
+	position: relative;
+	top: 11px;
+	font-size: 16px;
+}
+
+#btnJoin {
+	width: 40%;
+	padding: 21px 0 17px;
+	border: 1px solid;
+	cursor: pointer;
+	color: #fff;
+	background-color: #1442a1;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+#loginBtn {
+	width: 40%;
+	padding: 12px 0 10px;
+	border: 0;
+	cursor: pointer;
+	color: #fff;
+	background-color: #1442a1;
+	font-size: 20px;
+	font-weight: 200;
+	margin: 0px 25%;
+}
+
+.btn_area {
+	margin-top: 55px;
+	text-align: center;
+}

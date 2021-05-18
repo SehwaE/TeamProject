@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+._2z6nI {
+    border-top: 1px solid #dbdbdb;
+    border-top: 1px solid rgba(var(--b38,219,219,219),1);
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 1170px;
+}
+.ySN3v {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+.reupload {
+	float: right;
+	margin-right: 5px;
+	padding: 6px 25px;
+    background-color: #ff0000;
+    border-radius: 4px;
+    color: black;
+    cursor: pointer;
+
+}
+ 
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

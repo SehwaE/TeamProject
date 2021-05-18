@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL_CODE</resultMsg>
+	</header>
+	<body>
+		<items>
+		    <item>
+				<MAIN_TITLE>무구희(無垢喜)</MAIN_TITLE>
+				<LNG>128.95245</LNG>
+				<UC_SEQ>40</UC_SEQ>
+				<CNTCT_TEL>0507-1426-2727</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>img/food/mogu.PNG
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>전포동 신상 맛집. 1인 샤브샤브로 혼자서도 즐길 수 있는 샤브샤브 식당이다. 간소한 메뉴 구성으로 고민없이 고를 수 있는 장점이 있고
+				샤브샤브 식사 후 후식으로 칼구수사리나 계란죽을 먹으면 아주 만족스럽게 식사를 마무리할 수 있다.</ITEMCNTNTS>
+				<PLACE>무구희(無垢喜)</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>매일 11:30~21:00 Last Order 15:00/20:00, Break Time 15:00-17:00
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>부산진구</GUGUN_NM>
+				<ADDR1>부산광역시 부산진구 전포대로224번길 11</ADDR1>
+				<RPRSNTV_MENU>무구샤브, 곁들이는 칼국수, 계란죽</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>무구희(無垢喜)</TITLE>
+				<MAIN_IMG_THUMB>img/food/mogu.PNG
+				</MAIN_IMG_THUMB>
+				<LAT>35.177387</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>만드리곤드레밥</MAIN_TITLE>
+				<LNG>128.95245</LNG>
+				<UC_SEQ>70</UC_SEQ>
+				<CNTCT_TEL>051-941-3669</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191209162810545_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>곤드레밥에는 일반적으로 건조 곤드레나물이 사용되는데, 이 곳은 생 곤드레나물을 사용하여 돌솥밥을
+					만든다. 된장찌개와 함께 열 가지가 넘는 반찬이 제공되는 돌솥곤드레정식이 인기 있다.</ITEMCNTNTS>
+				<PLACE>만드리곤드레밥</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>11:00a.m. ~ 21:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>강서구</GUGUN_NM>
+				<ADDR1>강서구 공항앞길 85번길 13</ADDR1>
+				<RPRSNTV_MENU>돌솥곤드레정식, 호박오리훈제</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>만드리곤드레밥</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191209162810545_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.177387</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>만호갈미 샤브샤브</MAIN_TITLE>
+				<LNG>128.92914</LNG>
+				<UC_SEQ>72</UC_SEQ>
+				<CNTCT_TEL>051-271-4389</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191216135832825_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>샤브샤브, 수육, 구이 등 다양한 방식으로 갈미조개를 요리하는 갈미조개 전문 식당. 국물이 맛있기로
+					유명한 이 곳은 갈미샤브샤브와 갈미수육이 대표메뉴이다.</ITEMCNTNTS>
+				<PLACE>만호갈미 샤브샤브</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>12:00p.m. ~ 21:30p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>강서구</GUGUN_NM>
+				<ADDR1>강서구 르노삼성대로 602</ADDR1>
+				<RPRSNTV_MENU>갈미샤브샤브, 갈미수육</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>만호갈미 샤브샤브</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191216135832825_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.101425</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>민물가든</MAIN_TITLE>
+				<LNG>128.89468</LNG>
+				<UC_SEQ>77</UC_SEQ>
+				<CNTCT_TEL>051-971-8428</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217101816206_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>30년간 운영해온 생선찜전문점으로, 전통방식인 나무통을 사용하여 조리하는 것이 특징이다. 20가지
+					이상의 재료로 만든 양념을 사용하는 이 곳은 묵은지 붕어조림과 붕어찜이 대표메뉴이다.</ITEMCNTNTS>
+				<PLACE>민물가든</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>11:00a.m. ~ 22:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>강서구</GUGUN_NM>
+				<ADDR1>강서구 둔치중앙길5(봉림동) </ADDR1>
+				<RPRSNTV_MENU>묵은지붕어조림, 붕어찜</RPRSNTV_MENU>
+				<HOMEPAGE_URL>https://blog.naver.com/rladba1</HOMEPAGE_URL>
+				<TITLE>민물가든</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217101816206_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.16055</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>소희네집</MAIN_TITLE>
+				<LNG>128.82826</LNG>
+				<UC_SEQ>80</UC_SEQ>
+				<CNTCT_TEL>051-971-8886</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217103310691_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>계절별로 다른 재료로 요리하는 해물정식 식당으로, 제철 해산물을 먹을 수 있는 곳이지만, 4인분씩만
+					주문을 받고 점심시간만 운영하는 등 여러 가지 제약이 있다. 이 곳을 찾을 계획이 있다면 예약이 필수이다.
+				</ITEMCNTNTS>
+				<PLACE>소희네집</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>11:30a.m. ~ 14:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>강서구</GUGUN_NM>
+				<ADDR1>강서구 가덕해안로1208번길 2-12</ADDR1>
+				<RPRSNTV_MENU>해산물정식(4인분), 광어회</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>소희네집</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217103310691_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.012413</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>에프앰커피하우스</MAIN_TITLE>
+				<LNG>129.06377</LNG>
+				<UC_SEQ>90</UC_SEQ>
+				<CNTCT_TEL>051-803-0926</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20200819103100776_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>부산의 대표적인 카페거리 전포동카페거리에서 가장 오래된 카페인 이 곳은 로스팅을 주력으로 하여,
+					커피가 맛있기로 명성이 높은 곳이다. 콜드브루에 생크림을 얹은 대표커피 투모로우 커피는 완벽한 밸런스의 커피 맛을
+					자랑한다.</ITEMCNTNTS>
+				<PLACE>에프앰커피하우스</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>am 09:30 ~ pm 22:30
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>부산진구</GUGUN_NM>
+				<ADDR1>부산 부산진구 전포대로 199번길 26</ADDR1>
+				<RPRSNTV_MENU>투모로우 오리지널, 투모로우 모카</RPRSNTV_MENU>
+				<HOMEPAGE_URL>http://www.fmcoffeehouse.com/</HOMEPAGE_URL>
+				<TITLE>에프앰커피하우스</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20200819103100776_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.154644</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>가야할매밀면</MAIN_TITLE>
+				<LNG>129.07988</LNG>
+				<UC_SEQ>94</UC_SEQ>
+				<CNTCT_TEL>051-865-8017</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217201857896_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>부산의 향토음식인 밀면전문점으로, 밀가루에 옥수수 전분을 섞어, 다른 밀면전문점들보다더 탄력있는 면이
+					특징이다. 육수는 돼지뼈와 소뼈에 각종 야채와 여러 한약재를 섞어 만들 고, 사이드 메뉴인 만두도 인기 있다.
+				</ITEMCNTNTS>
+				<PLACE>가야할매밀면</PLACE>
+				<SUBTITLE>가야할매밀면</SUBTITLE>
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>11:00a.m. ~ 20:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>연제구</GUGUN_NM>
+				<ADDR1>부산 연제구 월드컵대로 145번길 32</ADDR1>
+				<RPRSNTV_MENU>물 밀면, 비빔밀면</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>가야할매밀면</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217201857896_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.185196</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>국제밀면</MAIN_TITLE>
+				<LNG>129.07785</LNG>
+				<UC_SEQ>95</UC_SEQ>
+				<CNTCT_TEL>051-501-5507</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217202633906_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>부산의 수많은 밀면전문점 중에서도 가장 유명한 식당 중 한 곳으로, 소 사골만을 사용한 육수 등
+					독창적인 방식의 밀면을 만들고 있다. 보통 기계로 잘려진 편육이 고명으로 올려지 는데, 이 곳은 손으로 일일이 얇게 찢은
+					양지머리 고기가 올려지는 것이 특징이다.</ITEMCNTNTS>
+				<PLACE>국제밀면</PLACE>
+				<SUBTITLE>국제밀면</SUBTITLE>
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>10:00a.m. ~ 20:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>연제구</GUGUN_NM>
+				<ADDR1>부산 연제구 중앙대로 1235번길 23-6</ADDR1>
+				<RPRSNTV_MENU>물밀면, 비빔밀면</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>국제밀면</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191217202633906_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.19689</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>할매가야밀면</MAIN_TITLE>
+				<LNG>129.03125</LNG>
+				<UC_SEQ>102</UC_SEQ>
+				<CNTCT_TEL>051-246-3314</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20191218003259322_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>광복로패션거리의 골목에 위치한 밀면전문점으로, 식사시간에는 항상 긴줄이 늘어서 있는 유명한 식당이다.
+					간편하게 먹을 수 있는 밀면의 특성과 넓은 매장으로 인해 대기줄이 길지 만, 웨이팅 시간은 짧은 편. 항상 청결하게
+					관리되는 매장이 인상적이다.</ITEMCNTNTS>
+				<PLACE>할매가야밀면</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>10:30a.m. ~ 21:30p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>중구</GUGUN_NM>
+				<ADDR1>부산 중구 광복로 56-14</ADDR1>
+				<RPRSNTV_MENU>밀면, 비빔밀면</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>할매가야밀면</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20191218003259322_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.098927</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>정동진해물탕</MAIN_TITLE>
+				<LNG>129.05547</LNG>
+				<UC_SEQ>105</UC_SEQ>
+				<CNTCT_TEL>051-809-8208</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20200819153940223_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>해물탕전문점 중 최대급 규모인 이 곳은 식약청 인증과, 위생등급 최고등급을 받을 정도로 철저하게
+					위생관리를 하고 있는 식당이다. 대표메뉴인 해물탕과 해물찜은 신선한 재료들과 가장 큰 크기의 꽃게와 새우를 사용하여
+					만들고 있다.</ITEMCNTNTS>
+				<PLACE>정동진해물탕</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>am 11:00 ~ pm 23:00
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>부산진구</GUGUN_NM>
+				<ADDR1>부산 부산진구 서면문화로 37</ADDR1>
+				<RPRSNTV_MENU>해물찜, 해물탕</RPRSNTV_MENU>
+				<HOMEPAGE_URL />
+				<TITLE>정동진해물탕</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20200819153940223_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.16046</LAT>
+			</item>
+			<item>
+				<MAIN_TITLE>고고커피</MAIN_TITLE>
+				<LNG>129.09377</LNG>
+				<UC_SEQ>111</UC_SEQ>
+				<CNTCT_TEL>1544-7355</CNTCT_TEL>
+				<MAIN_IMG_NORMAL>https://www.visitbusan.net/uploadImgs/files/cntnts/20200818112123234_ttiel
+				</MAIN_IMG_NORMAL>
+				<ITEMCNTNTS>고고커피는 커피에 대한 모든 것들을 취급하는 커피 전문 마켓으로, 식자재, 카페용품, 커피머신 등이
+					진열되어 있어 커피에 관심이 많은 사람이라면 무척 즐거운 시간을 보낼 수있을 것이다.</ITEMCNTNTS>
+				<PLACE>고고커피</PLACE>
+				<SUBTITLE />
+				<ADDR2 />
+				<USAGE_DAY_WEEK_AND_TIME>09:00a.m. ~ 18:00p.m.
+				</USAGE_DAY_WEEK_AND_TIME>
+				<GUGUN_NM>금정구</GUGUN_NM>
+				<ADDR1>금정구 중앙대로1784(부곡동)</ADDR1>
+				<RPRSNTV_MENU>에티오피아, 부오노드립포트</RPRSNTV_MENU>
+				<HOMEPAGE_URL>http://gogocoffee.co.kr</HOMEPAGE_URL>
+				<TITLE>고고커피</TITLE>
+				<MAIN_IMG_THUMB>https://www.visitbusan.net/uploadImgs/files/cntnts/20200818112123234_thumbL
+				</MAIN_IMG_THUMB>
+				<LAT>35.243614</LAT>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>180</totalCount>
+	</body>
+</response>

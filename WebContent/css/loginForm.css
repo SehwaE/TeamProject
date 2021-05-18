@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+@media (max-width: 1440px)
+	.box .int_mp2 .int_mp {
+	    font-size: 16px;
+	}
+  
+  .field {
+  	border: 1px dotted #7e7878;
+  	margin: 5% 30%;
+  	padding: 2%;
+  	border-radius: 12px;
+  	text-align: center;
+  }
+
+  .check {
+  	font-size: 15px;
+  	color: #7e7878;
+  	text-align: center;
+  }
+  
+  .login {
+  	margin-bottom: 23px;
+  }
+  
+  .pass {
+  	width: 75%;
+  	margin: 6px 0;
+  	height: 38px;
+  	border-radius: 7px;
+  }
+  
+  .int {
+  	width: 75%;
+    margin: 6px 0;
+    height: 38px;
+    border-radius: 7px;
+  }
+  
+  #userPass {
+  	margin: 5px;
+  }
+  
+  #joinBtn {
+  	border: 0;
+  	/* border-radius: 12px; */
+  	background-color: #1442a1;
+  	color: #fff;
+  	padding: 12px;
+  	width: 31%;
+  	font-size: 18px;
+  	margin-top: 45px;
+  }
+  
+  #loginBtn {
+	width: 30%;
+	padding: 12px 0 10px;
+	border: 0;
+	cursor: pointer;
+	color: #fff;
+	background-color: #1442a1;
+	font-size: 18px;
+	margin-top: 45px;
+}
+
+

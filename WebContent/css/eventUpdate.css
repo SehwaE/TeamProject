@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+
+.main_table {
+	width: 800px;
+	margin: auto;
+	margin-top: 20px;
+	padding: 30px;
+}
+
+.content textarea {
+	width: 100%;
+	resize: none;
+	line-height: 1.6;
+	overflow-y: hidden;
+}
+
+.content {
+	margin: 10px;
+	padding: 10px;
+}
+
+.ReviewTitle, .ContentTitie, .MonthTitie {
+	font-size: 17px;
+	font: bold;
+	margin-top: 15px;
+	padding: 10px;
+	margin-right: 5px;
+}
+
+.e_title {
+	margin-left: 5px;
+}
+
+.month {
+	float: right;
+	display: inline;
+	margin: 0 10px;
+}
+
+.img {
+	margin: 10% 10% 0 10%;
+	text-align: center;
+}
+
+.btn1 {
+	float: right;
+	margin-top: 5px;
+	margin-left: 3px;
+	width: 23%;
+}
+
+.btn2 {
+	float: right;
+	margin-top: 5px;
+}
+
+.btn1 a {
+	color: white;
+}
+
+.editBtn, .delBtn {
+	border-radius: 12px;
+	border: none;
+	background-color: #1442a1;
+	color: white;
+	font-size: 18px;
+	padding: 10px;
+}

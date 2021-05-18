@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+textarea {
+	resize: none;
+}
+
+.filebox input[type="file"] {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	border: 0;
+}
+
+.main_table {
+	width: 800px;
+	margin: auto;
+	padding: 30px;
+}
+
+.list {
+	padding: 20px;
+}
+
+.btn {
+	
+}

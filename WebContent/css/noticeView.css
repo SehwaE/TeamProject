@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+
+#btn{
+     text-align :right;
+}
+#container{
+	padding-top:65px;
+}
+div{
+	display:block;
+}
+#content{
+	display:block;
+	overflow:hidden;
+}
+.innerwrap{
+	max-width:1200px;
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+	word-wrap:break-word;
+}
+h1{
+	display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1.h1_head{
+    font-size: 40px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 45px;
+}
+body{
+	font-family: "Noto Sans KR", sans-serif !important;
+}
+body{
+	font-size: 16px;
+	color: #000;
+	line-height:1;
+}
+table.bbs_default{
+	width:100%;
+	border-collapse:collapse;
+	margin:0;
+}
+table{
+	font-family: inherit;
+	display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tbody{
+	display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr{
+	display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+th{
+	display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+td{
+	display: table-cell;
+    vertical-align: inherit;
+}
+table.bbs_default.view tbody tr:first-child th, tr:first-child td{
+	border-top: 2px solid #151515;
+	border-bottom: 1px solid #aaa;
+}
+table.bbs_default.view th{
+	padding: 12px 15px;
+    border-bottom: 1px solid #d9d9d9;
+    background: #f8f8f8;
+    font-weight: 600;
+    text-align: center;
+}
+table.bbs_default.view .bbs_content{
+	min-height: 150px;
+    text-align: left;
+    line-height: 24px;
+}
+table.bbs_default.view td{
+	padding: 12px 15px;
+    border-bottom: 1px solid #d9d9d9;
+}
+.bbs_btn_wrap{
+	margin: 50px 0;	
+}
+.bbs_right{
+    float: right;
+    display: inline;
+}
+colgroup{
+	display: table-column-group;
+}
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, div, h1, form, table, tr, th, td{
+	margin: 0;
+    padding: 0;
+}
